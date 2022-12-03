@@ -1,0 +1,16 @@
+.participants-list {
+  height: 30%;
+  width: 100%;
+}
+
+.participants-header {
+  padding: 10px;
+  font-weight: bold;
+  border-bottom: 1px solid grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MuiListItemText-root.css-tlelie-MuiListItemText-root {
+  padding: 10px;
+}

@@ -1,0 +1,39 @@
+.LoginPage {
+  display: flex;
+  flex-direction: column;
+  width: 25rem;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.LoginPage_heading {
+  padding: 30px;
+  padding-bottom: 0px;
+  font-size: 48px;
+  color: #1976d2;
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.resume-upload-area {
+  border: dotted gray;
+  width: 54%;
+  height: 2.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+}
+
+.resume-upload-input {
+  display: none;
+}
+
+.resume-upload-label {
+  color: gray;
+  cursor: pointer;
+}

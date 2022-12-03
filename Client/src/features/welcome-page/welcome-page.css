@@ -1,0 +1,39 @@
+.welcome-page {
+  display: flex;
+}
+
+.HomePageContainer {
+  height: 100vh;
+  width: 50%;
+}
+
+.HomePageContainer_2 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfcfc;
+}
+
+.HomePageContainer_2_heading {
+  display: flex;
+  align-self: center;
+  margin-top: 20%;
+  color: #6363b4;
+}
+
+.HomePageContainer_2_buttons {
+  width: 30rem;
+  display: flex;
+  justify-content: space-between;
+  /* margin: auto; */
+  margin-top: 10%;
+  margin-left: 12%;
+}
+
+.interviewee_card {
+  padding: 20px;
+}
+
+.interviewer_card {
+  padding: 20px;
+}
